@@ -1,8 +1,10 @@
-![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D4E16AQFGnxCt5MK2JA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719026032592?e=1751500800&v=beta&t=YVaoSD6tyRAQu6qP2WTtEOhPdlNbNAM2zm20_b_yx6E)
+![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D5616AQFwYOl9xYcKSw/profile-displaybackgroundimage-shrink_350_1400/B56ZaSO8F2HsAY-/0/1746210112985?e=1751500800&v=beta&t=JLyHl58SVjlsaXrMSKhfHdgisOH-JuJYIdNqNNR4dI0)
 
 
-<h1 align="center">Hi 👋, I'm Mevinu Methdam</h1>
+<h1 align="center">Hi👋,</h1>
+<h2 align="left"> I'm Mevinu Methdam</h2>
 <!-- <h3 align="center">A passionate Software developer from Sri Lanka</h3> -->
+
 
 - 🌱 I’m currently learning *HTML, CSS, JavaScript, Java*
 

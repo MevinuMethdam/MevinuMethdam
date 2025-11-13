@@ -1,7 +1,13 @@
-![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D4E16AQEu28kQKJpSfw/profile-displaybackgroundimage-shrink_350_1400/B4EZal6pJLGYAc-/0/1746540336700?e=1752105600\&v=beta\&t=nFgjjpRs0ZlT-ZqoFgfWhpeZ9_9TMez5BfhMYF8MBLo)
+<h1 align="center">Hi, I'm G.V Mevinu Methdam 👋</h1>
+<h3 align="center">Aspiring Software Engineer | AWS AI & ML Scholar | Frontend Developer</h3>
 
-<h1 align="center">Hi 👋</h1>
-<h2 align="center">I'm Mevinu Methdam</h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MevinuMethdam&label=Profile%20Views&color=0e75b6&style=flat" alt="MevinuMethdam" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;AWS+AI+%26+ML+Scholar;Frontend+Developer;Lifelong+Learner" alt="Typing SVG" />
+</p>
 
 ---
 

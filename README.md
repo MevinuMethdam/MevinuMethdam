@@ -33,7 +33,7 @@
 ### 🧠 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,js,java,python,mysql,mongodb,firebase,aws,azure,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,js,java,python,rust,mysql,mongodb,firebase,aws,azure,git,github,vscode" />
 </p>
 
 ---
